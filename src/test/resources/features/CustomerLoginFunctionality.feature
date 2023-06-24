@@ -5,6 +5,7 @@ Feature: Customer Login Functionality
   So that I can see Customer Home page
 
 
+  @Smoke
   Scenario: Verify Customer Login Functionality
     Given I am in Landing Page
     Then I click on Login Menu
